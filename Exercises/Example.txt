@@ -1,0 +1,25 @@
+Student Called 'Khaled Ashraf' has 3 subjects Arabic, English, Math.
+The degree of those subjects is 50 it means that Arabic 50 and English also and Math then total of equal 150 degrees.
+The degree of the student in Arabic is 45, in English is 40, in Math 25, and he got 4 minus degree from his total, and got nothing additional degrees to his total.
+
+1 - Use Variable to save each degree of the subjects, additional degrees, and minus.
+2 - Use an array to save student degrees [Arabic, English, Math].
+3 - Get total degree of the subjects.
+4 - Get total degree of the student.
+5 - Add the additional degrees to total degree of the student.
+6 - Sub from this degree the minus.
+7 - Get the percentage of total student degrees.
+8 - Get status of the student degrees:
+    if total is equal or greater than 85% then status is A.
+    if total is equal or greater than 70% and less than 85% then status is B.
+    if total is equal or greater than 60% and less than 70% then status is C.
+    if total is equal or greater than 50% and less than 60% then status is D.
+    if total is less than 50% F.
+9 - Don't forget to print:
+    - Student Name
+    - Final degree
+    - Percentage
+    - Status
+    - Minus
+    - Additional Degrees	[ with condition if it equal to 0 print '-' ]
+    - Subjects degrees
